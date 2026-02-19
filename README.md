@@ -1,6 +1,6 @@
 # Trasher
 
-[![Maintainability](https://api.codeclimate.com/v1/badges/be7ee36656318d67a01c/maintainability)](https://codeclimate.com/github/blurtech/trasher-frontend/maintainability) [![GitHub issues](https://img.shields.io/github/issues/blurtech/trasher-frontend.svg)](https://github.com/blurtech/trasher-frontend/issues) [![HitCount](http://hits.dwyl.io/blurtech/trasher-frontend.svg)](http://hits.dwyl.io/blurtech/trasher-frontend)  
+[![Maintainability](https://qlty.sh/gh/batyshkaLenin/projects/tree-lib/maintainability.svg)](https://qlty.sh/gh/batyshkaLenin/projects/trasher-frontend) [![GitHub issues](https://img.shields.io/github/issues/blurtech/trasher-frontend.svg)](https://github.com/blurtech/trasher-frontend/issues)  
 Client part of the application Trasher created whithin the framework of the final part of hackathon Digital Breakthrough.  
 
 Team: Blurred Technologies  
